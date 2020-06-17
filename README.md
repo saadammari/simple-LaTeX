@@ -1,2 +1,2 @@
 # simple-LaTeX
-Simple LaTeX application
+Simple LaTeX application to be started later...
